@@ -18,7 +18,9 @@
     transition-duration: 1s;
 }
 
-.pretzel{
+
+.pretzel-box{
+    display: inline-block;
 
 }
 
