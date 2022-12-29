@@ -1,0 +1,18 @@
+.one-indent{
+    margin-left: 20px;
+}
+
+.two-indent{
+    margin-left: 44px;
+}
+
+div *{
+    font-size: small;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div div *{
+    font-size: x-small;
+}
+
