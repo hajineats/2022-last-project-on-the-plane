@@ -18,6 +18,32 @@
     transition-duration: 1s;
 }
 
+.pretzel{
+
+}
+
+.circle{
+    border-radius: 50%;
+    border: 10px solid saddlebrown;
+    width: 40px;
+    height: 50px;
+    display: inline-block;
+}
+
+.circle1{
+    margin-right: -25px;
+}
+
+.two-circles{
+    margin-bottom: -27px;
+}
+.pretzel-bar{
+    height: 7px;
+    width: 60px;
+    margin-left: 20px;
+    background-color: saddlebrown;
+}
+
 
 div div{
     font-size: small;
