@@ -7,9 +7,17 @@
 }
 
 .shin-ramen{
+    transition-duration: 1s;
+}
+
+.shin-ramen:hover{
     background-color: crimson;
     color: aliceblue;
+    padding: 10px;
+    font-size: xxx-large;
+    transition-duration: 1s;
 }
+
 
 div div{
     font-size: small;
