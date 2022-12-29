@@ -6,7 +6,12 @@
     margin-left: 44px;
 }
 
-div *{
+.shin-ramen{
+    background-color: crimson;
+    color: aliceblue;
+}
+
+div div{
     font-size: small;
     margin-top: 10px;
     margin-bottom: 10px;
